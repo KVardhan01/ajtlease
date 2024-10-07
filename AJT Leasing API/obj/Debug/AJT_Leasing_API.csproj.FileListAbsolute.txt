@@ -1,0 +1,456 @@
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.AssemblyReference.cache
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CoreCompileInputs.cache
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\csc.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\csc.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\csc.rsp
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\csi.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\csi.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\csi.rsp
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.AppContext.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Collections.Immutable.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Console.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.IO.Compression.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.IO.FileSystem.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Net.Http.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Net.Sockets.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.ValueTuple.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Xml.XPath.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\vbc.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\vbc.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\vbc.rsp
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\VBCSCompiler.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\roslyn\VBCSCompiler.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Antlr3.Runtime.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Microsoft.Web.Infrastructure.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Newtonsoft.Json.Bson.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Newtonsoft.Json.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Oracle.ManagedDataAccess.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Buffers.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Formats.Asn1.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Memory.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Net.Http.Formatting.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Numerics.Vectors.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Text.Encodings.Web.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Text.Json.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Threading.Tasks.Extensions.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.ValueTuple.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Cors.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Helpers.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Http.Cors.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Http.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Http.WebHost.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Mvc.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Optimization.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Razor.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.WebPages.Deployment.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.WebPages.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.WebPages.Razor.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\WebGrease.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Newtonsoft.Json.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Newtonsoft.Json.Bson.pdb
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Newtonsoft.Json.Bson.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Buffers.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Formats.Asn1.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Memory.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Net.Http.Formatting.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Numerics.Vectors.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Text.Encodings.Web.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Text.Json.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Threading.Tasks.Extensions.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.ValueTuple.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Helpers.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Http.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Http.Cors.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Http.WebHost.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Mvc.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Razor.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.WebPages.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.WebPages.Deployment.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.WebPages.Razor.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\System.Web.Optimization.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Antlr3.Runtime.pdb
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CopyComplete
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\AJT_Leasing_API.dll.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\AJT_Leasing_API.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\bin\AJT_Leasing_API.pdb
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\obj\Debug\AJT_Leasing_API.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\obj\Debug\AJT_Leasing_API.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\AJT_Leasing_API.dll.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\AJT_Leasing_API.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\AJT_Leasing_API.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\csc.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\csc.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\csc.rsp
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\csi.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\csi.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\csi.rsp
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.Managed.Core.targets
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.AppContext.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Collections.Immutable.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Console.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Globalization.Calendars.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.IO.Compression.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.IO.FileSystem.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Net.Http.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Net.Sockets.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Reflection.Metadata.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.ValueTuple.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Xml.XmlDocument.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Xml.XPath.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\vbc.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\vbc.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\vbc.rsp
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\VBCSCompiler.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\roslyn\VBCSCompiler.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Antlr3.Runtime.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Microsoft.Web.Infrastructure.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Newtonsoft.Json.Bson.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Newtonsoft.Json.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Oracle.ManagedDataAccess.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Buffers.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Formats.Asn1.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Memory.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Net.Http.Formatting.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Numerics.Vectors.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Text.Encodings.Web.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Text.Json.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Threading.Tasks.Extensions.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.ValueTuple.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Cors.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Helpers.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Http.Cors.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Http.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Http.WebHost.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Mvc.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Optimization.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Razor.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.WebPages.Deployment.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.WebPages.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.WebPages.Razor.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\WebGrease.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Newtonsoft.Json.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Newtonsoft.Json.Bson.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Newtonsoft.Json.Bson.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Buffers.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Formats.Asn1.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Memory.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Net.Http.Formatting.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Numerics.Vectors.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Text.Encodings.Web.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Text.Json.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Threading.Tasks.Extensions.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.ValueTuple.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Helpers.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Http.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Http.Cors.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Http.WebHost.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Mvc.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Razor.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.WebPages.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.WebPages.Deployment.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.WebPages.Razor.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\System.Web.Optimization.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Antlr3.Runtime.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.AssemblyReference.cache
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CoreCompileInputs.cache
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CopyComplete
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\obj\Debug\AJT_Leasing_API.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing API\obj\Debug\AJT_Leasing_API.pdb
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\AJT_Leasing_API.dll.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\AJT_Leasing_API.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\AJT_Leasing_API.pdb
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\csc.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\csc.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\csc.rsp
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\csi.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\csi.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\csi.rsp
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.AppContext.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Collections.Immutable.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Console.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.Compression.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.FileSystem.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Net.Http.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Net.Sockets.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.ValueTuple.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.XPath.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\vbc.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\vbc.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\vbc.rsp
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\VBCSCompiler.exe
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\roslyn\VBCSCompiler.exe.config
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Antlr3.Runtime.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Microsoft.Web.Infrastructure.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.Bson.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Oracle.ManagedDataAccess.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Buffers.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Formats.Asn1.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Memory.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Net.Http.Formatting.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Numerics.Vectors.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Text.Encodings.Web.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Text.Json.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Threading.Tasks.Extensions.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.ValueTuple.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Cors.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Helpers.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.Cors.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.WebHost.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Mvc.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Optimization.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Razor.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Deployment.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Razor.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\WebGrease.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.Bson.pdb
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.Bson.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Buffers.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Formats.Asn1.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Memory.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Net.Http.Formatting.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Numerics.Vectors.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Text.Encodings.Web.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Text.Json.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Threading.Tasks.Extensions.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.ValueTuple.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Helpers.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.Cors.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.WebHost.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Mvc.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Razor.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Deployment.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Razor.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\System.Web.Optimization.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Antlr3.Runtime.pdb
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.AssemblyReference.cache
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CoreCompileInputs.cache
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CopyComplete
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.dll
+D:\Nichebit\AJT Leasing 23_09_24\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\AJT_Leasing_API.dll.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\AJT_Leasing_API.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\AJT_Leasing_API.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\csc.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\csc.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\csc.rsp
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\csi.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\csi.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\csi.rsp
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.Managed.Core.targets
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.AppContext.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Collections.Immutable.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Console.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Globalization.Calendars.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.Compression.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.FileSystem.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Net.Http.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Net.Sockets.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Reflection.Metadata.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.ValueTuple.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.XmlDocument.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.XPath.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\vbc.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\vbc.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\vbc.rsp
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\VBCSCompiler.exe
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\roslyn\VBCSCompiler.exe.config
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Antlr3.Runtime.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Microsoft.Web.Infrastructure.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.Bson.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Oracle.ManagedDataAccess.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Buffers.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Formats.Asn1.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Memory.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Net.Http.Formatting.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Numerics.Vectors.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Text.Encodings.Web.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Text.Json.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Threading.Tasks.Extensions.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.ValueTuple.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Cors.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Helpers.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.Cors.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.WebHost.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Mvc.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Optimization.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Razor.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Deployment.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Razor.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\WebGrease.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.Bson.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Newtonsoft.Json.Bson.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Buffers.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Diagnostics.DiagnosticSource.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Formats.Asn1.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Memory.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Net.Http.Formatting.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Numerics.Vectors.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Text.Encodings.Web.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Text.Json.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Threading.Tasks.Extensions.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.ValueTuple.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Helpers.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.Cors.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Http.WebHost.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Mvc.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Razor.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Deployment.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.WebPages.Razor.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\System.Web.Optimization.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Antlr3.Runtime.pdb
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.AssemblyReference.cache
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CoreCompileInputs.cache
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.csproj.CopyComplete
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.dll
+G:\NICHEBIT\AJT\AJT Leasing\AJT Leasing\AJT Leasing API\AJT Leasing API\obj\Debug\AJT_Leasing_API.pdb

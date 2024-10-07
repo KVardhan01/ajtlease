@@ -1,0 +1,13 @@
+{
+  "MinimumDrivingAge": 17,
+  "CreatedBy": "Tameeni Motor",
+  "Aggregator": "AJTLEASE",
+  "MaxLiabilityTPL": "10000000",
+  "MaxLiabilityCOMP": "10000000",
+  "CustomizedParamereList": "ModelSource,MakeSource,ManufactureYearSource",
+  "PolicyExpiryDays": 425,
+  "LoyaltyDiscountPer": 10,
+  "AddDiscountPer": 5,
+  "AddDiscountEskaID": 164,
+  "SAMADiscountEskaID":163
+}
